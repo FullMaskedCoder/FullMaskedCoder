@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhanCoder9
-- 👀 I’m interested in ... Coding, Python, C, C++, Kivy, KivyMD
+- 👀 I’m interested in ... Coding, Python, C, C++, Kivy, KivyMD AND CUBING
 - 🌱 I’m currently learning ... Python, C, Kivy, KivyMD
 - 💞️ I’m looking to collaborate on ... Python, C, C++, Android Apps, Kivy, KivyMD
 - 📫 How to reach me ... humaydk12@outlook.com
